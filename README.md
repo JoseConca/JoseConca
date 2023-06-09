@@ -1,6 +1,11 @@
-- 👋 Hello, I’m @JoseConca
+· 👋 Hello, I’m @JoseConca
 
-- 🌱 I'm currently studying Web Design and Web Applications Development
+· 🌱 I'm currently studying Web Design and Web Applications Development
+
+· 📓 Programming skills:
+-  Python
+-  Java
+
 
  
 
