@@ -5,6 +5,9 @@
 · 📓 Programming skills:
 -  Python
 -  Java
+-  HTML CSS and JAVASCRIPT
+
+· 💖 I love videogames and enjoy computer stuff
 
 
  
