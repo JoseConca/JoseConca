@@ -1,13 +1,13 @@
-· 👋 Hello, I’m @JoseConca
+· 👋 Hola, soy @JoseConca
 
-· 🌱 I'm currently studying Web Design and Web Applications Development
+· 🌱 Actualmente estoy estudiando un ciclo superior de Eesarrollo de Aplicaciones Web
 
 · 📓 Programming skills:
 -  Python
 -  Java
--  HTML CSS and JAVASCRIPT
+-  HTML, CSS, JAVASCRIPT
 
-· 💖 I love videogames and enjoy computer stuff
+· 💖 Me encantan los videojuegos y disfruto estar con el ordenador
 
 
 RESUMEN DEL CICLO SUPERIOR:
@@ -15,7 +15,7 @@ Hemos programado con Python y con Java.
 He probado a realizar pruebas unitarias con JUnit.
 Control de versiones con Git y Github.
 Conocemos HTML, CSS y un poco de JavaScript.
-Nivel básico de Docker y Máquinas virtuales
+Este curso, por fin, vamos a desplegar aplicaciones.
 
  
 
