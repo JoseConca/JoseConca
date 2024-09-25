@@ -11,10 +11,10 @@
 
 · RESUMEN DEL CICLO SUPERIOR:
  - 📓 Hemos programado con Python y con Java.
- - 📓He probado a realizar pruebas unitarias con JUnit.
- - 📓Control de versiones con Git y Github.
- - 📓Conocemos HTML, CSS y un poco de JavaScript.
- - 📓Hemos hecho tanto front-end como back-end.
+ - 📓 He probado a realizar pruebas unitarias con JUnit.
+ - 📓 Control de versiones con Git y Github.
+ - 📓 Conocemos HTML, CSS y un poco de JavaScript.
+ - 📓 Hemos hecho tanto front-end como back-end.
  - Este curso, por fin, vamos a desplegar aplicaciones.
 
  
