@@ -1,31 +1,26 @@
-<h1>👋 Hola, soy @JoseConca </h1>
- 
+👋 Hola, soy [JoseConca](https://www.linkedin.com/in/joseconca/) y estoy buscando empleo como **desarrollador**
+## SOBRE MI
  - 🏡 Soy de Gran Canaria 
- 
  - 🌱 Actualmente estoy estudiando un ciclo superior de Desarrollo de Aplicaciones Web
- 
  - 💖 Me encantan los videojuegos y disfruto de estar con el ordenador
 
-<h2>DATOS DE INTERÉS </h2>
- 
- - 🚗 Poseo el carnet B pero me desplazo en guagua 🚌
- 
- - Idealmente podría teletrabajar desde casa 🏠
-   
- - También dispongo de certificado de discapacidad
+## DATOS DE INTERÉS
+ - 🚗 Poseo el carnet B
+ - Idealmente podría **teletrabajar** desde casa 🏠
+ - También dispongo de **certificado de discapacidad**
 
-<h2>RESUMEN DEL CICLO SUPERIOR</h2>
- - 📓 Hemos programado con Python y con Java
- <br>
- - 📓 He probado a realizar pruebas unitarias con JUnit
- <br>
+## TECNOLOGÍAS TRABAJADAS EN EL CICLO DAW
+ - 📓 Programación con **Python** y con **Java**
+ - 📓 Pruebas unitarias con JUnit
  - 📓 Control de versiones con Git y Github
- <br>
- - 📓 Conocemos HTML, CSS y JavaScript
- <br>
- - 📓 Hemos hecho tanto front-end como back-end
- <br>
- - 📓 Ahora estamos desplegando aplicaciones con Spring
+ - 📓 HTML, CSS y JavaScript
+ - 📓 Spring Boot, Maven, Thymeleaf
+
+## PROYECTOS PROPIOS
+- [x] 🚀 [Lista de Tareas](https://github.com/JoseConca/lista-laravel-php) 📓 Aplicación web con **PHP**, **Laravel**, Blade
+- [x] 🚀 [El Diccionario](https://github.com/JoseConca/daw-dsw-ElDiccionario) 📓 Aplicación web hecha con **Java** en **Spring Tool**
+- [ ] 🚀 [El tiempo] 🚧Aplicación web con **microservicios** en Spring Tool🚧
+ 
 
  
 
