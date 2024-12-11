@@ -12,14 +12,15 @@
 ## TECNOLOGÍAS TRABAJADAS EN EL CICLO DAW
  - 📓 Programación con **Python** y con **Java**
  - 📓 Pruebas unitarias con JUnit
+ - 📓 Bases de datos relacionales con MySQL
  - 📓 Control de versiones con Git y Github
  - 📓 HTML, CSS y JavaScript
  - 📓 Spring Boot, Maven, Thymeleaf
 
 ## PROYECTOS PROPIOS
 - [x] 🚀 [Lista de Tareas](https://github.com/JoseConca/lista-laravel-php) 📓 Aplicación web con **PHP**, **Laravel**, Blade
-- [x] 🚀 [El Diccionario](https://github.com/JoseConca/daw-dsw-ElDiccionario) 📓 Aplicación web hecha con **Java** en **Spring Tool**
-- [ ] 🚀 [El tiempo] 🚧Aplicación web con **microservicios** en Spring Tool🚧
+- [x] 🚀 [El Diccionario](https://github.com/JoseConca/daw-dsw-ElDiccionario) 📓 Aplicación web hecha con **Java** en **Spring Boot**
+- [x] 🚀 [El tiempo](https://github.com/JoseConca/hubtiemponoticias-springboot-microservicios) 📓 Aplicación web con **microservicios** en Spring Boot
  
 
  
