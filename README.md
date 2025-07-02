@@ -24,6 +24,9 @@
  - ⚙️ Python como lenguaje de los cuadernos
  - ⚙️ Despliegue de aplicación en Azure containers
 
+## GRADO EN INGENIERÍA INFORMÁTICA
+ - 🖥️ Este curso 25/26 me graduo tras terminar el Trabajo de Fin de Grado
+
 ## PROYECTOS PROPIOS
 - [x] 🚀 [Lista de Tareas](https://github.com/JoseConca/lista-laravel-php) 📓 Aplicación web con **PHP**, **Laravel**, Blade
 - [x] 🚀 [El Diccionario](https://github.com/JoseConca/daw-dsw-ElDiccionario) 📓 Aplicación web hecha con **Java** en **Spring Boot**
