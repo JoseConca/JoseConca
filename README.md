@@ -4,7 +4,7 @@
 
 ## SOBRE MI
  - 🏡 Soy de Gran Canaria 
- - 🌱 He cursado el ciclo superior de Desarrollo de Aplicaciones Web
+ - 🌱 Soy técnico Superior en Desarrollo de Aplicaciones Web
  - 💖 Me encantan los videojuegos y disfruto de estar con el ordenador
 
 ### Otros datos de interés
@@ -35,6 +35,7 @@
  - ⚙️ Despliegue de aplicación en Azure containers
 
 ## PROYECTOS EN GITHUB
+- [x] 🚀 [Juego infantil](https://github.com/joseconca/juego-infantil) 📓 Aplicación de escritorio en **JavaFX** para aprender letras y números.
 - [x] 🚀 [Lista de Tareas](https://github.com/JoseConca/lista-laravel-php) 📓 Aplicación web con **PHP**, **Laravel**, Blade
 - [x] 🚀 [El Diccionario](https://github.com/JoseConca/daw-dsw-ElDiccionario) 📓 Aplicación web hecha con **Java** en **Spring Boot**
 - [x] 🚀 [Hub de tiempo y noticias](https://github.com/JoseConca/hubtiemponoticias-springboot-microservicios) 📓 Aplicación web con **microservicios** en Spring Boot
