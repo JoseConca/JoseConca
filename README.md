@@ -37,7 +37,8 @@
 ## PROYECTOS EN GITHUB
 - [x] 🚀 [Juego infantil](https://github.com/joseconca/juego-infantil) 📓 Aplicación de escritorio en **JavaFX** para aprender letras y números.
 - [x] 🚀 [Lista de Tareas](https://github.com/JoseConca/lista-laravel-php) 📓 Aplicación web con **PHP**, **Laravel**, Blade
-- [x] 🚀 [El Diccionario](https://github.com/JoseConca/daw-dsw-ElDiccionario) 📓 Aplicación web hecha con **Java** en **Spring Boot**
+- [x] 🚀 [El Diccionario](https://github.com/JoseConca/daw-dsw-ElDiccionario) 📓 Aplicación web hecha en **Java** con **Spring Boot**
+- [x] 🚀 [Búsqueda de mascotas](https://github.com/joseconca/proyecto-final-DAW) 📓 Aplicación web hecha en **Python** con **FastAPI**
 - [x] 🚀 [Hub de tiempo y noticias](https://github.com/JoseConca/hubtiemponoticias-springboot-microservicios) 📓 Aplicación web con **microservicios** en Spring Boot
 - [x] 🚀 [Cartelera de cine](https://github.com/joseconca/daw-dsw-cartelera) 📓 Aplicación web del ciclo con **seguridad**, **autenticación**, **persistencia**... en Spring Boot
  
